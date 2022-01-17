@@ -1,0 +1,36 @@
+#inputDiv {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin: 50px auto;
+}
+#inputDiv input {
+  height: 20px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+#submitBtn {
+  height: 32px;
+  border-radius: 8px;
+  background-color: #bdc6fc;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+#submitBtn:hover {
+  background-color: #d2b2f8;
+}
+#content {
+  border-radius: 10px;
+  width: 40%;
+  margin: 20px auto;
+  text-align: left;
+  padding: 10px 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: #b5daf4;
+  transition-timing-function: linear;
+}
+#content:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

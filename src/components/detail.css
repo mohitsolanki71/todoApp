@@ -1,0 +1,13 @@
+#detailContent {
+  border-radius: 10px;
+  width: 40%;
+  margin: 20px auto;
+  text-align: left;
+  padding: 10px 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: #b5daf4;
+  transition-timing-function: linear;
+}
+#detailContent:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

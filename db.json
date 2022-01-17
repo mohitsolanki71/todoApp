@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "status": true,
+      "title": "have lunch",
+      "details": "at 1 pm",
+      "id": 1
+    },
+    {
+      "status": false,
+      "title": "have some fruits",
+      "details": "at 5 pm",
+      "id": 2
+    },
+    {
+      "status": false,
+      "title": "lear react ",
+      "details": " in masai",
+      "id": 4
+    },
+    {
+      "status": false,
+      "title": "play cricket",
+      "details": "match is at 4 pm",
+      "id": 7
+    }
+  ]
+}

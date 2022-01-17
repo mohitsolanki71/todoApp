@@ -1,0 +1,27 @@
+#container {
+  display: flex;
+  justify-content: space-between;
+  gap: 500px;
+  padding: 5px 20px;
+  border-bottom: 8px solid #30475e;
+  background-color: #ca8e79;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#navbar img {
+  width: 60px;
+  border-radius: 5px;
+}
+#navButton {
+  width: 80px;
+  padding: 8px;
+  font-size: 15px;
+  border-radius: 8px;
+  background-color: #5f758d;
+  color: white;
+}
+#navButton:hover {
+  background-color: #30475e;
+}
